@@ -90,7 +90,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #110218;
+  background-color: #481019;
 }
 
 .overlay-mf {
@@ -315,7 +315,7 @@ a:hover {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #110218;
+  background: #481019;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -412,7 +412,7 @@ a:hover {
 }
 
 .button-a {
-  background-color: #110218;
+  background-color: #481019;
   color: #fff;
   border-color: #cde1f8;
 }
@@ -438,7 +438,7 @@ a:hover {
 --------------------------------------------------------------*/
 .navbar-b {
   transition: all .5s ease-in-out;
-  background-color: #110218;
+  background-color: #481019;
   padding-top: 1.563rem;
   padding-bottom: 1.563rem;
 }
@@ -1360,7 +1360,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #110218;
+  background: #481019;
 }
 
 footer .copyright {
@@ -1373,4 +1373,10 @@ footer .credits {
 
 footer .credits a {
   color: #fff;
+}
+.map{
+  height: 293px;
+}
+video{
+  width: 100%;
 }
